@@ -87,7 +87,7 @@ const luxarryy = {
 
 ## 🎵 Spotify'da Dinlediğim
 
-[![Spotify](https://novatorem-luxarryy.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://novatorem-luxarryy.vercel.app/api/spotify)](https://open.spotify.com/user/31vjm4i4tk3rdelhd3mf2pwqomwu)
 
 ---
 
