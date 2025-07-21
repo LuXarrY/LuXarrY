@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben luxarryy!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7067CF&center=true&vCenter=true&width=435&lines=I am LuX;Full+Stack+Developer;Discord+Bot+Developer;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7067CF&center=true&vCenter=true&width=435&lines=I +am+LuX;Full+Stack+Developer;Discord+Bot+Developer;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 Hakkımda
