@@ -85,14 +85,9 @@ const luxarryy = {
 
 </div>
 
-## 🎵 Son Dinlediğim Şarkılar
+## 🎵 Spotify Profilim
 
-<table>
-  <tr>
-    <td><a href="https://open.spotify.com/user/31vjm4i4tk3rdelhd3mf2pwqomwu"><img src="https://spotify-readme-playlists.vercel.app/api?username=31vjm4i4tk3rdelhd3mf2pwqomwu&type=played&theme=dark" alt="Son Çalınanlar"></a></td>
-    <td><a href="https://open.spotify.com/user/31vjm4i4tk3rdelhd3mf2pwqomwu"><img src="https://spotify-readme-playlists.vercel.app/api?username=31vjm4i4tk3rdelhd3mf2pwqomwu&type=playlist&theme=dark" alt="Çalma Listeleri"></a></td>
-  </tr>
-</table>
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31vjm4i4tk3rdelhd3mf2pwqomwu)
 
 ---
 
